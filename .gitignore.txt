@@ -1,0 +1,7 @@
+.idea
+out
+.classpath
+.project
+bin
+.settings
+colombian-flag-wannabe.iml
